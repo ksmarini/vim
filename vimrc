@@ -45,6 +45,7 @@ set mouse=a  " change cursor per mode
 set cursorline
 set number  " always show current line number
 set relativenumber
+set ignorecase " case insensitive
 set smartcase  " better case-sensitivity when searching
 set wrapscan  " begin search from top of file when nothing is found anymore
 set expandtab
